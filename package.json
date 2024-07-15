@@ -3,7 +3,7 @@
 	"private": true,
 	"description": "A simple portfolio for developers",
 	"version": "0.1.2",
-	"author": "Smakosh <ismai23l@hotmail.com>",
+	"author": "Shine <shine401020@gmail.com>",
 	"dependencies": {
 		"axios": "^0.21.1",
 		"dotenv": "^10.0.0",
@@ -46,10 +46,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:smakosh/gatsby-portfolio-dev.git"
+		"url": "https://github.com/shinevue/next-portfolio"
 	},
 	"bugs": {
-		"url": "https://github.com/smakosh/gatsby-portfolio-dev/issues"
+		"url": "https://github.com/shinevue/next-portfolio/issues"
 	},
 	"resolutions": {
 		"graphql": "^15.4.0",
