@@ -14,8 +14,8 @@ export const Footer = () => (
             💖
           </span>{' '}
           by{' '}
-          <a href="https://smakosh.com/?ref=portfolio-dev" rel="noopener noreferrer" target="_blank">
-            Smakosh
+          <a href="https://portfolio-shine.vercel.app" rel="noopener noreferrer" target="_blank">
+            shinevue
           </a>
         </span>
       </Details>
